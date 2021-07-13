@@ -1,0 +1,122 @@
+    main{
+      height: 900px;
+    }
+    hr{
+      border-color: #66635B;
+      width: 94%;
+      border-style: solid;
+    }
+    body{
+      background-color: #93A8AC;
+    }
+
+    h1 {
+      
+      font-family: 'Montserrat Alternates', sans-serif;
+      font-size: 40px;
+      margin-left: 10px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+
+      color: #E3DDC9;
+    }
+    
+    h3 {
+      padding-left: 10px;
+      font-size: 20px;
+      font-family: 'Montserrat Alternates', sans-serif;
+    }
+    
+    #subtitle{
+      margin: 0px 10px 10px 20px;
+      color: #575550;
+      width: 675px;
+      
+        }
+    #image1 {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+      margin-right: 30px;
+      margin-top: 30px;
+
+
+    }
+    p {
+      font-family: 'Montserrat Alternates', sans-serif;
+      font-size: 20px;
+      margin-top: 10px;
+      align-items: stretch;
+      color: #4C5760;
+    }
+
+    #section1{
+      background-color: #D7CEB2;
+      margin: auto;
+      padding: 5px;
+      border-radius: 10px; 
+      height: 650px;
+      max-width: 85%;
+      box-shadow: 5px 10px 18px #888888;
+
+      }
+    
+    #section2 {
+      background-color: #A59E8C;
+      margin: 30px 30px;
+      padding: 10px;
+      border-radius: 10px;
+      height: 385px;
+      width: 50%;
+      box-shadow: 5px 10px 18px #888888;
+
+    }
+    #section3{
+      background-color: #66635B;
+      position: relative; 
+      margin-right: 50px;
+      bottom: 437px;
+      width: 445px;
+      left: 735px;
+      height: 408px;
+      border-radius: 10px;
+      box-shadow: 5px 10px 18px #888888;
+
+
+    }
+    #wrapper {
+      height: 300px;
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+    }
+    #caption{
+     max-width: 45%;
+     padding-left: 15px;
+     padding-right: 15px;
+    }
+    #title{
+      margin-bottom: 20px;
+      margin-left: 30px;
+      background-color: #4C5760;
+      border-radius: 10px;
+      width: 247px;
+      box-shadow: 5px 10px 18px #888888;
+      height: 55px;
+
+    }
+   #logo{
+     float: right;
+     margin-right: 30px;
+     margin-top: -70px;
+    }
+    #line{
+      width: 350px;
+      text-align: left;
+      margin-left: 33px;
+      border-style: solid;
+      margin-top: 0px;
+    }
+    #section3text{
+      color: black;
+    }
